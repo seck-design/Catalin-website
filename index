@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<!--
+	Radius by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Radius by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<div class="content">
+						<h1>Catalin Dragusanu</h1>
+						<h2>Hello! I’m Catalin Dragusanu, a passionate photographer based in Norfolk<br />
+						</h2>
+						<a href="#" class="button big alt"><span>Let's Go</span></a>
+					</div>
+					<a href="#" class="button hidden"><span>Let's Go</span></a>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+				<div class="inner">
+					<div class="columns">
+
+						<!-- Column 1 (horizontal, vertical, horizontal, vertical) -->
+							<div class="image fit">
+								<a href="images/1.jpg" download><img src="images/1.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\2.jpg" download><img src="images\2.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_5527-Enhanced-NR.jpg" download><img src="images\IMG_5527-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_5626-Enhanced-NR.jpg" download><img src="images\IMG_5626-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+
+						<!-- Column 2 (vertical, horizontal, vertical, horizontal) -->
+							<div class="image fit">
+								<a href="images\IMG_5634-Enhanced-NR.jpg" download><img src="images\IMG_5634-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_5708-Enhanced-NR.png" download><img src="images\IMG_5708-Enhanced-NR.png" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_5614-Enhanced-NR.jpg" download><img src="images\IMG_5614-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="detail1.html" download=""><img src="images\IMG_5712.png" alt="" /></a>
+							</div>
+
+						<!-- Column 3 (horizontal, vertical, horizontal, vertical) -->
+							<div class="image fit">
+								<a href="images\IMG_5994-Enhanced-NR.jpg" download><img src="images\IMG_5994-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_6008-Enhanced-NR.jpg" download><img src="images\IMG_6008-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\jpgDSCF7507-1.jpg" download><img src="images\jpgDSCF7507-1.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\park3-2-Edit.jpg" download><img src="images\park3-2-Edit.jpg" alt="" /></a>
+							</div>
+
+						<!-- Column 4 (vertical, horizontal, vertical, horizontal) -->
+							<div class="image fit">
+								<a href="images\IMG_5509-Enhanced-NR.jpg" download><img src="images\IMG_5509-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\S0349568.jpg" download><img src="images\S0349568.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_5553-Enhanced-NR.jpg" download><img src="images\IMG_5553-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+							<div class="image fit">
+								<a href="images\IMG_5575-Enhanced-NR.jpg" download><img src="images\IMG_5575-Enhanced-NR.jpg" alt="" /></a>
+							</div>
+
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<a href="#" class="info fa fa-info-circle"><span>About</span></a>
+				<div class="inner">
+					<div class="content">
+						<h3>Free Photography Services</h3>
+						<p>Hello! I'm Catalin Dragusanu, an enthusiastic new photographer eager to take my passion to the next level. For the first two months, I’m offering my photography services completely free! If you’re interested in portraits, car photos, or product photography, let’s create something amazing together.
+
+							If you love my work, a shout-out on social media would be greatly appreciated!</p>
+					</div>
+					<div class="copyright">
+						<h3>Follow me on</h3>
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+						</ul>
+						&copy; Catalin Dragusanu<a href="https://unsplash.com/">Unsplash</a>.
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
